@@ -1,4 +1,4 @@
-# Desafio-Sprint-1
+# Desafio Sprint 1 - Node.js
 Tropa de comando: Felipe, Bruna, Leonardo, Júnior, Giovanni, Diego, Fabiane e Thais. 
 
 ## Para que serve o método Scrum? 
