@@ -41,7 +41,7 @@ Se a URL pertencer a um domínio próprio, o navegador primeiro se conecta a um 
 
 ## Quais são os comandos usados para atualizar um repositório local e fazer merge de um outro branch ao seu branch ativo? 
 
-10 - $ git add <nome do arquivo> e $ git merge (nome_da_branch)
+10 - $ git add (nome do arquivo) e $ git merge (nome_da_branch)
 
 ## Pensando em Bases de dados, sendo elas, Relacionais (SQL) e Não Relacionais (NoSQL). Quais alternativas abaixo estão corretas? 
 
